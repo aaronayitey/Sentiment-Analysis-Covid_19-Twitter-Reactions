@@ -18,6 +18,6 @@ We begin by loading the dataset and exploring its characteristics:
 
 
 # Author:
-Aaron Ayitey <ber>
+Aaron Ayitey <br>
 Data Analytics Professional<br>
 Azubi Africa
